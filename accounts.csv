@@ -1,0 +1,406 @@
+account_id,customer_id,account_type,open_date,balance,branch_name
+1,1,Savings,03-04-2022,273249.55,Chennai South
+2,2,Savings,16-01-2022,215463.57,Mumbai Central
+3,2,Current,24-04-2023,182961.11,Mumbai Central
+4,3,Savings,23-03-2025,341351.28,Mumbai Central
+5,4,Current,14-02-2023,486944.67,Delhi Main
+6,5,Savings,08-07-2025,488126.81,Delhi Main
+7,6,Savings,09-02-2023,90500.97,Chennai South
+8,7,Savings,30-10-2024,134136.05,Mumbai Central
+9,8,Savings,15-03-2023,429438.03,Delhi Main
+10,9,Current,29-04-2024,175479.55,Delhi Main
+11,10,Savings,02-10-2018,330356.56,Bangalore North
+12,11,Current,17-11-2022,432312.12,Chennai South
+13,12,Current,15-09-2023,340079.54,Kolkata Park St
+14,13,Savings,28-06-2016,58555.53,Chennai South
+15,14,Current,30-03-2022,20090.34,Kolkata Park St
+16,15,Current,12-07-2021,364543.99,Chennai South
+17,16,Savings,19-06-2020,193212.52,Kolkata Park St
+18,17,Current,17-08-2025,23148.88,Bangalore North
+19,18,Savings,07-10-2025,182746.51,Mumbai Central
+20,19,Current,18-09-2021,311954.55,Mumbai Central
+21,19,Current,12-07-2024,254054.13,Bangalore North
+22,20,Current,25-02-2023,348907,Kolkata Park St
+23,21,Savings,20-09-2025,210802.72,Bangalore North
+24,22,Savings,28-08-2016,308141.94,Chennai South
+25,22,Current,08-01-2022,274420.67,Mumbai Central
+26,23,Current,23-04-2019,105881.16,Kolkata Park St
+27,24,Current,06-10-2020,233029.11,Bangalore North
+28,24,Savings,02-01-2021,256075.82,Delhi Main
+29,25,Savings,24-04-2025,142609.42,Kolkata Park St
+30,25,Current,22-09-2022,47600.21,Delhi Main
+31,26,Current,11-03-2025,113095.69,Delhi Main
+32,26,Savings,27-12-2024,13188.27,Delhi Main
+33,27,Savings,13-03-2025,228252.67,Kolkata Park St
+34,28,Current,21-01-2024,247694.21,Delhi Main
+35,29,Savings,19-04-2024,446437.25,Mumbai Central
+36,30,Savings,22-06-2025,88767.45,Kolkata Park St
+37,31,Savings,08-07-2022,279145.49,Mumbai Central
+38,32,Savings,17-10-2022,400906.88,Kolkata Park St
+39,33,Current,26-01-2020,475069.76,Bangalore North
+40,33,Current,18-07-2021,415454.02,Kolkata Park St
+41,34,Savings,13-02-2024,372084.07,Bangalore North
+42,35,Current,03-12-2023,376136.62,Chennai South
+43,36,Current,30-09-2025,313747.47,Chennai South
+44,36,Current,18-10-2021,39664.19,Chennai South
+45,37,Current,24-08-2022,168587.92,Kolkata Park St
+46,38,Savings,21-09-2025,76264.5,Bangalore North
+47,39,Savings,15-11-2024,353503.15,Mumbai Central
+48,39,Current,02-03-2023,204392.09,Kolkata Park St
+49,40,Current,14-09-2024,32070.59,Bangalore North
+50,41,Savings,29-02-2024,428509.28,Kolkata Park St
+51,42,Current,13-09-2023,3942.15,Chennai South
+52,43,Current,21-11-2017,426870.53,Bangalore North
+53,44,Savings,21-09-2023,244626.51,Chennai South
+54,44,Current,14-07-2023,243335.35,Bangalore North
+55,45,Current,10-05-2025,362366.51,Bangalore North
+56,46,Savings,14-10-2024,453557.5,Kolkata Park St
+57,47,Savings,13-04-2023,42889.78,Bangalore North
+58,47,Savings,17-06-2022,433558.83,Delhi Main
+59,48,Current,18-11-2023,190172.83,Delhi Main
+60,49,Current,19-10-2024,169412.77,Bangalore North
+61,50,Current,27-08-2023,126883.49,Mumbai Central
+62,51,Savings,24-03-2025,374763.11,Mumbai Central
+63,52,Savings,23-09-2024,325421.9,Mumbai Central
+64,53,Savings,14-02-2023,100480.98,Mumbai Central
+65,54,Savings,10-09-2025,120033.93,Bangalore North
+66,54,Savings,25-09-2025,282420.82,Delhi Main
+67,55,Current,24-12-2021,383682.15,Delhi Main
+68,56,Savings,01-03-2024,389118.15,Delhi Main
+69,56,Current,25-08-2022,54941.28,Mumbai Central
+70,57,Current,28-08-2018,198930.57,Delhi Main
+71,58,Savings,01-02-2025,51848.75,Chennai South
+72,59,Savings,01-04-2024,398317.38,Kolkata Park St
+73,59,Savings,06-02-2024,174254.68,Bangalore North
+74,60,Current,20-02-2018,35409.41,Chennai South
+75,60,Savings,24-07-2018,424938.24,Bangalore North
+76,61,Current,21-04-2023,480433,Bangalore North
+77,62,Savings,10-10-2025,218308.09,Kolkata Park St
+78,62,Current,27-09-2023,308340.26,Kolkata Park St
+79,63,Current,12-03-2025,218351.67,Kolkata Park St
+80,64,Current,13-06-2025,426004.87,Mumbai Central
+81,65,Current,24-08-2022,122687.86,Bangalore North
+82,66,Current,14-05-2023,168861.91,Bangalore North
+83,66,Current,07-05-2019,91738.09,Delhi Main
+84,67,Current,11-06-2025,170829.08,Kolkata Park St
+85,68,Current,25-08-2025,278339.72,Kolkata Park St
+86,68,Savings,16-02-2023,43720.87,Bangalore North
+87,69,Savings,03-07-2025,345614.06,Bangalore North
+88,70,Savings,20-02-2023,47433.62,Delhi Main
+89,71,Savings,18-04-2020,153796.81,Kolkata Park St
+90,72,Current,14-03-2023,277183,Chennai South
+91,73,Current,30-01-2025,176553.45,Bangalore North
+92,74,Current,07-09-2023,126450.43,Mumbai Central
+93,75,Savings,12-09-2025,158458.42,Kolkata Park St
+94,75,Savings,28-09-2025,96578.95,Bangalore North
+95,76,Current,18-08-2022,490274.8,Delhi Main
+96,77,Savings,27-05-2025,181079.65,Chennai South
+97,78,Savings,01-07-2023,137881.35,Mumbai Central
+98,79,Current,03-10-2025,349011.28,Delhi Main
+99,79,Current,07-03-2025,52191.24,Mumbai Central
+100,80,Current,11-03-2025,235229.08,Bangalore North
+101,80,Current,16-05-2024,92997.47,Mumbai Central
+102,81,Current,04-09-2025,57929.48,Mumbai Central
+103,82,Current,15-09-2022,37967,Mumbai Central
+104,83,Savings,12-08-2023,405759.9,Chennai South
+105,84,Savings,06-10-2021,60107.33,Bangalore North
+106,85,Savings,26-11-2024,388071.08,Bangalore North
+107,85,Current,13-09-2019,454343.68,Chennai South
+108,86,Current,21-03-2021,153384.74,Kolkata Park St
+109,86,Savings,20-05-2024,305205.83,Mumbai Central
+110,87,Savings,09-12-2024,133058.42,Mumbai Central
+111,88,Savings,23-01-2023,87732.96,Mumbai Central
+112,89,Savings,02-07-2022,204850.27,Kolkata Park St
+113,90,Current,07-08-2021,17287.29,Chennai South
+114,91,Current,17-07-2025,351790.79,Bangalore North
+115,91,Savings,19-12-2022,344005.08,Chennai South
+116,92,Savings,12-10-2021,213144.34,Kolkata Park St
+117,92,Savings,07-09-2023,324169.73,Chennai South
+118,93,Savings,12-05-2024,30759.38,Chennai South
+119,94,Current,17-11-2019,220137.57,Bangalore North
+120,94,Current,16-11-2020,350167.11,Chennai South
+121,95,Current,31-12-2024,219441.67,Kolkata Park St
+122,95,Savings,08-10-2024,444822.02,Chennai South
+123,96,Current,16-09-2025,13906.58,Delhi Main
+124,96,Savings,26-08-2025,499786.64,Chennai South
+125,97,Savings,03-02-2020,381791.39,Delhi Main
+126,97,Current,29-09-2016,259962.96,Bangalore North
+127,98,Savings,07-02-2025,498475.79,Bangalore North
+128,99,Current,25-05-2025,484558.56,Bangalore North
+129,99,Current,05-05-2022,204765.7,Chennai South
+130,100,Savings,22-10-2023,429008.81,Chennai South
+131,100,Current,13-11-2021,347143.16,Chennai South
+132,101,Current,22-07-2020,406969.45,Kolkata Park St
+133,101,Savings,03-01-2018,227958.13,Chennai South
+134,102,Current,25-01-2024,58844.88,Bangalore North
+135,103,Savings,20-08-2021,329172.53,Kolkata Park St
+136,103,Current,28-09-2022,207210.54,Delhi Main
+137,104,Current,31-07-2024,311694.3,Bangalore North
+138,104,Current,07-08-2024,380235.28,Delhi Main
+139,105,Savings,25-10-2023,463908.71,Bangalore North
+140,106,Current,01-12-2016,61591.62,Kolkata Park St
+141,106,Savings,29-01-2022,355181.63,Chennai South
+142,107,Savings,01-01-2024,276573.45,Mumbai Central
+143,107,Savings,12-06-2025,496136.31,Mumbai Central
+144,108,Savings,29-11-2020,324207.13,Delhi Main
+145,109,Current,15-05-2022,254927.14,Chennai South
+146,110,Current,21-09-2025,490142.07,Delhi Main
+147,111,Savings,08-03-2025,192409.42,Kolkata Park St
+148,112,Savings,30-08-2023,432149.44,Chennai South
+149,112,Current,16-03-2025,170597.75,Kolkata Park St
+150,113,Savings,05-05-2022,142136.65,Chennai South
+151,114,Current,27-09-2022,432765.04,Bangalore North
+152,114,Current,21-01-2020,173216.85,Kolkata Park St
+153,115,Current,20-09-2021,228216.96,Chennai South
+154,115,Savings,14-05-2024,490406.54,Delhi Main
+155,116,Current,29-09-2025,117547.66,Bangalore North
+156,116,Savings,11-07-2024,159769.99,Bangalore North
+157,117,Current,26-04-2025,193653.3,Delhi Main
+158,117,Current,23-05-2025,482447.39,Delhi Main
+159,118,Current,10-12-2024,434980.46,Bangalore North
+160,118,Savings,14-07-2022,263449.59,Bangalore North
+161,119,Savings,08-01-2022,205579.33,Delhi Main
+162,120,Current,02-06-2023,390981.12,Chennai South
+163,121,Current,08-04-2022,325268.49,Chennai South
+164,122,Current,12-08-2019,477115.66,Bangalore North
+165,122,Savings,04-02-2019,309112.27,Delhi Main
+166,123,Current,15-12-2020,498715.54,Mumbai Central
+167,123,Current,29-10-2016,489190.53,Mumbai Central
+168,124,Savings,27-12-2020,347306.58,Mumbai Central
+169,125,Current,24-07-2025,398275.59,Chennai South
+170,126,Current,18-02-2025,215912.71,Delhi Main
+171,127,Current,31-01-2025,283398.1,Delhi Main
+172,127,Savings,17-12-2024,88359.61,Kolkata Park St
+173,128,Savings,23-08-2017,249335.96,Kolkata Park St
+174,129,Savings,10-08-2023,231113.81,Chennai South
+175,130,Current,08-12-2023,333753.52,Bangalore North
+176,131,Savings,19-03-2024,37857.09,Chennai South
+177,132,Current,29-01-2021,319830.41,Bangalore North
+178,132,Current,04-10-2025,228961.07,Chennai South
+179,133,Current,27-06-2022,426814.39,Mumbai Central
+180,134,Current,29-11-2022,286389.42,Kolkata Park St
+181,135,Current,19-10-2017,11947.86,Bangalore North
+182,136,Savings,15-09-2025,283398.58,Mumbai Central
+183,137,Current,25-02-2025,416586.61,Chennai South
+184,137,Savings,27-01-2023,303925.43,Chennai South
+185,138,Savings,10-09-2022,310824.69,Delhi Main
+186,139,Savings,30-08-2022,451798.45,Mumbai Central
+187,139,Current,17-08-2022,394516.63,Mumbai Central
+188,140,Current,29-01-2023,366447.52,Mumbai Central
+189,140,Current,19-01-2022,164032.84,Bangalore North
+190,141,Savings,15-04-2024,66947.74,Kolkata Park St
+191,142,Current,28-04-2025,415405.84,Chennai South
+192,143,Current,08-02-2025,373533.12,Chennai South
+193,144,Current,18-11-2020,481483.75,Delhi Main
+194,145,Current,20-09-2024,483667.6,Kolkata Park St
+195,146,Savings,08-10-2025,395550.3,Mumbai Central
+196,147,Savings,29-03-2021,227938.23,Chennai South
+197,148,Current,22-08-2024,411386.23,Chennai South
+198,148,Savings,08-04-2024,337743.44,Bangalore North
+199,149,Current,02-09-2025,457712.7,Delhi Main
+200,150,Savings,27-12-2022,318066.56,Bangalore North
+201,150,Current,04-10-2024,324970.48,Mumbai Central
+202,151,Savings,18-02-2025,473184.5,Chennai South
+203,152,Savings,15-10-2020,49498.81,Kolkata Park St
+204,153,Current,17-08-2025,227368.23,Kolkata Park St
+205,154,Savings,02-07-2021,442821.48,Mumbai Central
+206,155,Current,13-03-2023,469587.48,Chennai South
+207,156,Current,25-12-2024,109417.57,Bangalore North
+208,157,Current,29-11-2024,50577.96,Chennai South
+209,158,Current,31-01-2020,31214.49,Chennai South
+210,158,Savings,06-02-2021,484135.23,Bangalore North
+211,159,Savings,13-11-2023,321210.53,Kolkata Park St
+212,160,Savings,02-02-2021,393610.5,Delhi Main
+213,161,Savings,22-10-2022,35236.47,Kolkata Park St
+214,162,Savings,10-03-2025,406713.44,Delhi Main
+215,163,Savings,29-09-2025,394533.23,Kolkata Park St
+216,164,Current,19-10-2023,429344.66,Delhi Main
+217,165,Current,05-03-2024,399458.4,Mumbai Central
+218,166,Savings,10-01-2020,66769.81,Chennai South
+219,166,Savings,18-03-2023,294837.61,Mumbai Central
+220,167,Current,08-12-2024,27147.11,Bangalore North
+221,168,Savings,02-10-2025,373086.97,Bangalore North
+222,168,Current,25-09-2025,389230.5,Kolkata Park St
+223,169,Savings,30-07-2025,226550.7,Delhi Main
+224,169,Savings,27-08-2025,363894.26,Kolkata Park St
+225,170,Current,02-02-2024,322027,Mumbai Central
+226,171,Current,26-10-2019,423801.97,Bangalore North
+227,172,Savings,21-04-2023,245644.16,Bangalore North
+228,172,Savings,21-09-2022,449734.12,Chennai South
+229,173,Savings,10-11-2021,33775.43,Chennai South
+230,173,Current,06-03-2024,191071.3,Kolkata Park St
+231,174,Current,12-03-2024,227403.99,Kolkata Park St
+232,174,Current,03-06-2022,50490.05,Mumbai Central
+233,175,Savings,04-10-2025,215604.9,Delhi Main
+234,175,Current,21-08-2025,170126.88,Bangalore North
+235,176,Current,15-08-2025,365076.64,Chennai South
+236,177,Current,11-03-2025,332888.82,Chennai South
+237,178,Current,09-03-2024,34499.52,Mumbai Central
+238,179,Current,14-08-2020,49185.65,Chennai South
+239,180,Savings,02-09-2025,293646.08,Kolkata Park St
+240,181,Current,17-12-2024,335336.62,Bangalore North
+241,181,Current,27-08-2024,436930.08,Bangalore North
+242,182,Savings,27-05-2022,484230.91,Kolkata Park St
+243,182,Current,15-05-2025,176471.45,Kolkata Park St
+244,183,Savings,04-06-2025,78210.36,Bangalore North
+245,183,Savings,12-07-2025,423790.15,Chennai South
+246,184,Current,12-03-2024,58327.77,Chennai South
+247,184,Savings,13-08-2024,403803.46,Kolkata Park St
+248,185,Savings,03-08-2024,304888.46,Chennai South
+249,185,Savings,06-05-2023,91027.62,Chennai South
+250,186,Current,16-07-2025,4046.79,Delhi Main
+251,187,Current,01-04-2024,35723.13,Mumbai Central
+252,187,Savings,13-05-2024,373309.77,Delhi Main
+253,188,Current,12-09-2025,227369.25,Delhi Main
+254,189,Current,21-12-2022,361076.39,Kolkata Park St
+255,190,Savings,17-12-2021,441787.75,Delhi Main
+256,190,Savings,23-03-2023,377463.5,Mumbai Central
+257,191,Savings,30-10-2023,136779.32,Bangalore North
+258,191,Current,07-07-2016,303930.93,Bangalore North
+259,192,Savings,04-02-2024,377716.63,Mumbai Central
+260,193,Current,03-06-2025,56334,Kolkata Park St
+261,194,Current,02-12-2020,23663.26,Bangalore North
+262,195,Savings,14-11-2022,4835.86,Chennai South
+263,195,Savings,30-01-2025,383907.41,Chennai South
+264,196,Current,20-05-2021,60872.19,Bangalore North
+265,197,Current,13-07-2024,88671.71,Bangalore North
+266,197,Savings,12-10-2024,250630.91,Chennai South
+267,198,Current,24-09-2023,431020.42,Mumbai Central
+268,199,Savings,03-03-2025,230417.37,Mumbai Central
+269,200,Current,20-09-2019,287126.44,Bangalore North
+270,201,Savings,02-09-2025,203111.12,Chennai South
+271,202,Current,13-05-2022,416180.93,Chennai South
+272,203,Current,26-01-2025,422397.7,Delhi Main
+273,204,Current,07-03-2024,262457.31,Bangalore North
+274,205,Current,10-12-2023,111564.46,Delhi Main
+275,206,Savings,17-12-2023,265771.81,Delhi Main
+276,207,Current,26-05-2024,363962.17,Delhi Main
+277,208,Savings,04-05-2025,74075.66,Delhi Main
+278,209,Savings,31-07-2025,380347.43,Mumbai Central
+279,210,Current,31-07-2025,232512.58,Kolkata Park St
+280,211,Current,14-07-2024,340885.61,Kolkata Park St
+281,211,Current,04-12-2024,432259.19,Chennai South
+282,212,Current,27-02-2025,35074.84,Bangalore North
+283,213,Current,18-05-2021,398368.51,Kolkata Park St
+284,213,Savings,19-03-2025,176619.17,Mumbai Central
+285,214,Current,03-08-2024,226505.02,Mumbai Central
+286,215,Current,07-11-2022,39288.77,Mumbai Central
+287,216,Current,11-12-2020,231893.12,Kolkata Park St
+288,216,Savings,24-12-2020,225417.12,Kolkata Park St
+289,217,Savings,09-08-2025,161441.85,Bangalore North
+290,217,Savings,30-12-2023,478903.46,Bangalore North
+291,218,Current,29-07-2025,491210.4,Mumbai Central
+292,219,Savings,12-06-2024,20531.92,Bangalore North
+293,219,Current,25-09-2025,262510.21,Kolkata Park St
+294,220,Current,21-09-2021,187053.14,Chennai South
+295,221,Current,06-03-2024,387457.93,Kolkata Park St
+296,222,Current,16-05-2017,33890.02,Mumbai Central
+297,223,Current,23-02-2023,142789.34,Kolkata Park St
+298,223,Savings,25-09-2022,167347.66,Kolkata Park St
+299,224,Savings,22-08-2025,458456.48,Chennai South
+300,224,Current,02-03-2025,65346.88,Mumbai Central
+301,225,Current,24-07-2025,322103.14,Chennai South
+302,226,Savings,12-06-2023,323366.39,Bangalore North
+303,227,Current,15-11-2024,10097.04,Chennai South
+304,227,Savings,08-11-2024,475633.49,Chennai South
+305,228,Savings,10-09-2025,114044.98,Delhi Main
+306,229,Savings,25-04-2021,148600.26,Mumbai Central
+307,230,Savings,11-02-2020,331302.69,Kolkata Park St
+308,230,Savings,02-07-2021,299025.97,Delhi Main
+309,231,Savings,05-09-2023,415841.18,Kolkata Park St
+310,232,Current,05-04-2024,22802.52,Chennai South
+311,233,Savings,23-07-2025,484824.71,Kolkata Park St
+312,233,Current,22-06-2025,376443.19,Bangalore North
+313,234,Savings,06-12-2024,155424.48,Bangalore North
+314,235,Current,03-03-2024,339475.11,Kolkata Park St
+315,236,Current,11-04-2024,384949.84,Bangalore North
+316,237,Current,18-09-2025,483167.81,Delhi Main
+317,237,Savings,22-08-2025,436627.96,Mumbai Central
+318,238,Current,03-03-2024,437184.36,Kolkata Park St
+319,238,Savings,23-08-2025,355989.09,Kolkata Park St
+320,239,Current,18-06-2025,42853.69,Delhi Main
+321,240,Current,22-04-2020,452747.8,Delhi Main
+322,241,Savings,13-11-2019,473260.22,Delhi Main
+323,242,Current,23-03-2022,465305.49,Bangalore North
+324,243,Current,28-11-2019,251501.55,Delhi Main
+325,244,Savings,16-02-2022,188081.42,Mumbai Central
+326,245,Savings,24-07-2025,419748.97,Chennai South
+327,246,Savings,24-05-2024,20113.29,Bangalore North
+328,247,Savings,04-06-2023,379661.74,Bangalore North
+329,247,Current,05-03-2025,308058.78,Mumbai Central
+330,248,Current,29-09-2024,108611.72,Delhi Main
+331,249,Current,18-05-2022,56482.24,Chennai South
+332,249,Savings,29-12-2024,151274.45,Mumbai Central
+333,250,Current,23-03-2025,319836.91,Kolkata Park St
+334,251,Savings,06-07-2023,56318.09,Bangalore North
+335,252,Savings,22-05-2023,316345.52,Kolkata Park St
+336,252,Savings,13-04-2024,359553.62,Chennai South
+337,253,Savings,02-12-2024,307789.98,Delhi Main
+338,254,Current,03-03-2024,94469.64,Mumbai Central
+339,254,Current,20-10-2023,34771.98,Kolkata Park St
+340,255,Savings,09-07-2025,195836.41,Bangalore North
+341,255,Savings,03-07-2024,318199.72,Chennai South
+342,256,Savings,07-10-2024,179189.84,Mumbai Central
+343,257,Savings,29-06-2018,366737.57,Mumbai Central
+344,258,Current,06-08-2025,67571.39,Chennai South
+345,258,Current,06-10-2025,406940.92,Delhi Main
+346,259,Current,22-11-2023,490428.77,Bangalore North
+347,259,Savings,19-10-2024,405937.34,Mumbai Central
+348,260,Current,17-11-2021,19454.91,Delhi Main
+349,260,Savings,26-09-2024,395763.5,Mumbai Central
+350,261,Current,01-07-2025,258176.41,Kolkata Park St
+351,262,Current,17-06-2020,19273.76,Delhi Main
+352,263,Current,22-01-2025,431207.13,Mumbai Central
+353,264,Current,10-10-2025,137335.09,Chennai South
+354,264,Current,05-09-2025,444853.77,Bangalore North
+355,265,Current,03-12-2019,486888.07,Bangalore North
+356,266,Current,29-10-2024,184306.12,Kolkata Park St
+357,266,Current,14-08-2025,400772.9,Bangalore North
+358,267,Current,28-10-2021,301624.2,Delhi Main
+359,268,Current,11-10-2025,161284.5,Mumbai Central
+360,268,Current,07-02-2025,330798.69,Chennai South
+361,269,Current,15-12-2023,84155.74,Bangalore North
+362,270,Current,08-06-2023,22135.23,Chennai South
+363,271,Current,30-07-2024,138003.12,Mumbai Central
+364,271,Savings,06-12-2021,335920.76,Bangalore North
+365,272,Savings,02-01-2022,476441.91,Delhi Main
+366,273,Current,12-06-2025,18364.68,Mumbai Central
+367,273,Savings,24-09-2025,389479.17,Chennai South
+368,274,Current,13-05-2024,474784.09,Mumbai Central
+369,275,Savings,11-03-2023,339851.97,Chennai South
+370,275,Current,25-05-2025,222525.71,Mumbai Central
+371,276,Savings,28-03-2021,265200.48,Bangalore North
+372,276,Current,19-10-2019,325130.81,Delhi Main
+373,277,Savings,12-01-2024,368101.75,Bangalore North
+374,278,Current,20-08-2020,456857.71,Mumbai Central
+375,278,Current,24-12-2022,387707.28,Bangalore North
+376,279,Current,27-12-2021,347296.34,Bangalore North
+377,280,Savings,30-09-2025,68728.48,Mumbai Central
+378,281,Savings,20-08-2021,449440.84,Bangalore North
+379,282,Current,25-10-2024,334252.06,Mumbai Central
+380,283,Current,04-11-2023,445774.51,Delhi Main
+381,283,Savings,20-10-2020,397054.5,Kolkata Park St
+382,284,Savings,19-09-2021,492581.14,Delhi Main
+383,285,Current,26-08-2025,14115.73,Kolkata Park St
+384,286,Current,15-06-2024,234235.51,Kolkata Park St
+385,286,Savings,03-07-2024,306362.23,Mumbai Central
+386,287,Current,03-01-2019,199681.83,Bangalore North
+387,288,Current,19-08-2024,384813.11,Kolkata Park St
+388,288,Savings,27-09-2024,63538.06,Chennai South
+389,289,Savings,14-10-2024,225537.27,Kolkata Park St
+390,289,Current,30-08-2023,65038.97,Kolkata Park St
+391,290,Savings,08-02-2021,384123.04,Delhi Main
+392,290,Current,19-05-2023,251929.03,Mumbai Central
+393,291,Savings,05-04-2025,152758.15,Delhi Main
+394,292,Savings,11-07-2024,173665.52,Kolkata Park St
+395,293,Savings,25-07-2021,126052.05,Kolkata Park St
+396,294,Savings,22-12-2023,312886.16,Kolkata Park St
+397,295,Savings,21-06-2025,251784,Delhi Main
+398,295,Savings,05-10-2025,86429.11,Kolkata Park St
+399,296,Current,27-05-2025,421422.47,Kolkata Park St
+400,296,Savings,29-08-2025,412792.9,Mumbai Central
+401,297,Savings,01-09-2025,474324.88,Kolkata Park St
+402,298,Savings,31-01-2022,383712.54,Bangalore North
+403,299,Savings,11-11-2019,249520.99,Kolkata Park St
+404,299,Current,15-05-2020,321311.74,Chennai South
+405,300,Savings,02-04-2024,402539.39,Bangalore North
